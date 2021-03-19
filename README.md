@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Kosgei
 
-<!--
 **Iamkosgei/Iamkosgei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
   </tr>   
   </table>
 </center>
--->
