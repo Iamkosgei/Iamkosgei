@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Mobile Engineer.
 - 🌱 I’m currently working with Flutter and Android.
 - 👯 I’m looking to collaborate on anything to do with mobile technologies.
-- 📫 How to reach me: kosgeik2930@gmail.com
+- 📫 How to reach me: kosgeik2930[at]gmail[dot]com
 - 😄 Pronouns: He/Him
 <center>
   <table>
