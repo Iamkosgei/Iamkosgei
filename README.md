@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kosgei
 
 - 🔭 I’m currently working as a Mobile Engineer.
-- 🌱 I’m currently working with Flutter and Android.
+- 🌱 Focusing on flutter and android.
 - 👯 I’m looking to collaborate on anything to do with mobile technologies.
 - 📫 How to reach me: kosgeik2930[at]gmail[dot]com
 - 😄 Pronouns: He/Him
